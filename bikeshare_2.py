@@ -274,6 +274,8 @@ def display_raw_data(raw_df):
     display_data = input('\nWould you like to view the first 5 lines of raw '
                          'data? Enter "y" or "n".\n').lower()
     while display_data == 'y' or display_data == 'yes':
+        if i == 1:
+            os.system('clear')
         print(raw_df[i:i+5])
         i += 5
         display_data = input('\nWould you like to see the next 5 lines?'
