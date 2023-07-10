@@ -13,6 +13,11 @@ This project demonstrates the knowledge of using version control by adding Proje
 * ud123-git-keyterms.pdf - Reference for key Git terminology
 * ud123-git-keyterms.pdf - Git Commands with details on what they do
 
+### Dependencies
+**Python v3.5+**
+
+To install Python, follow the instructions [here](https://www.python.org/downloads/).
+
 ### Credits
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/docs/)
