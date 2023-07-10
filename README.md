@@ -18,6 +18,11 @@ This project demonstrates the knowledge of using version control by adding Proje
 
 To install Python, follow the instructions [here](https://www.python.org/downloads/).
 
+### Usage
+    python bikeshare.py
+
+Executes the Bikeshare program
+
 ### Credits
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/docs/)
